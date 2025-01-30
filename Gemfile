@@ -19,6 +19,16 @@ group :jekyll_plugins do
     gem 'jekyll-tabs', '~> 1.0'
     gem 'jekyll-terser', :git => "https://github.com/RobertoJBeltran/jekyll-terser.git"
     gem 'jekyll-toc'
+    gem 'jekyll-seo-tag'
+    gem 'jekyll-coffeescript'
+    gem 'jekyll-commonmark-ghpages'
+    gem 'jekyll-gist'
+    gem 'jekyll-github-metadata'
+    gem 'jekyll-relative-links'
+    gem 'jekyll-optional-front-matter'
+    gem 'jekyll-readme-index'
+    gem 'jekyll-default-layout'
+    gem 'jekyll-titles-from-headings'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     gem 'classifier-reborn'  # used for content categorization during the build
