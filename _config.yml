@@ -201,6 +201,16 @@ plugins:
   - jekyll-archives
   - jekyll-email-protect
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-coffeescript
+  - jekyll-commonmark-ghpages
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
   - jekyll-get-json
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
