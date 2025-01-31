@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3.10'
+gem 'jekyll'
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
@@ -14,7 +14,7 @@ group :jekyll_plugins do
     gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
     gem 'jekyll-regex-replace'
-    gem 'jekyll-scholar', '~> 5.0'
+    gem 'jekyll-scholar', '~> 6.0'
     gem 'jekyll-sitemap'
     gem 'jekyll-tabs', '~> 1.0'
     gem 'jekyll-terser', :git => "https://github.com/RobertoJBeltran/jekyll-terser.git"
@@ -32,6 +32,7 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     gem 'classifier-reborn'  # used for content categorization during the build
+    gem 'kramdown-parser-gfm'
 end
 
 # Gems for development or external data fetching (outside :jekyll_plugins)
