@@ -18,6 +18,14 @@ jobs:
         with:
           ruby-version: '3.0'  # Change this to your desired Ruby version
 
+      - name: Cache dependencies
+        uses: actions/cache@v2
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
       - name: Install dependencies
         run: bundle install
 
