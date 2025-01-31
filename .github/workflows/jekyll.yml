@@ -1,9 +1,9 @@
-name: Jekyll Site CI
+name: Jekyll site CI
 
 on:
   push:
     branches:
-    - siteDep
+    - siteDepFinal
 
 jobs:
   build:

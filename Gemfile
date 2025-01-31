@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'jekyll', '~> 4.2'
 
+
 # Core plugins that directly affect site building
 group :jekyll_plugins do
     gem 'jekyll-archives'
