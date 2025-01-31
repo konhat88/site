@@ -74,6 +74,8 @@ GEM
       logger
     faraday-net_http (3.4.0)
       net-http (>= 0.5.0)
+    faraday-retry (2.2.1)
+      faraday (~> 2.0)
     fast-stemmer (1.0.2)
     feedjira (3.1.2)
       loofah (>= 2.3.1)
@@ -203,6 +205,7 @@ GEM
     loofah (2.24.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.12.0)
+    matrix (0.4.2)
     mercenary (0.4.0)
     mime-types (3.6.0)
       logger
@@ -288,6 +291,7 @@ PLATFORMS
 DEPENDENCIES
   classifier-reborn
   css_parser
+  faraday-retry
   feedjira
   httparty
   jekyll (~> 4.2)
@@ -319,6 +323,7 @@ DEPENDENCIES
   jekyll-toc
   jekyll-twitter-plugin
   jemoji
+  matrix
   observer
   ostruct
   terser
