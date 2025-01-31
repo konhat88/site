@@ -32,6 +32,7 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     gem 'classifier-reborn'  # used for content categorization during the build
+    gem "jekyll-timeago", "~> 0.13.1"
 end
 
 # Gems for development or external data fetching (outside :jekyll_plugins)
