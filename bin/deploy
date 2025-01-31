@@ -91,7 +91,7 @@ git checkout -b $DEPLOY_BRANCH
 
 # Export JEKYLL_ENV=production
 export JEKYLL_ENV=production
-export JEKYLL_GITHUB_TOKEN=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
+export JEKYLL_GITHUB_TOKEN=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
 export PAGES_REPO_NWO=konhat88/site
 
 # Build site
