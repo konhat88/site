@@ -278,11 +278,12 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
+  bibtex-ruby
   classifier-reborn
   css_parser
   feedjira
   httparty
-  jekyll
+  jekyll (~> 4.4.1)
   jekyll-archives
   jekyll-coffeescript
   jekyll-commonmark-ghpages
@@ -301,7 +302,8 @@ DEPENDENCIES
   jekyll-readme-index
   jekyll-regex-replace
   jekyll-relative-links
-  jekyll-scholar (~> 6.0)
+  jekyll-sass-converter
+  jekyll-scholar (~> 6.8.1)
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-tabs (~> 1.0)
