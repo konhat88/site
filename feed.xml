@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://konhat88.github.io/site/feed.xml" rel="self" type="application/atom+xml" /><link href="https://konhat88.github.io/site/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-01-31T23:55:22+00:00</updated><id>https://konhat88.github.io/site/feed.xml</id><title type="html">Konstantinos personal webpage</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">a post with image galleries</title><link href="https://konhat88.github.io/site/blog/2024/photo-gallery/" rel="alternate" type="text/html" title="a post with image galleries" /><published>2024-12-04T01:59:00+00:00</published><updated>2024-12-04T01:59:00+00:00</updated><id>https://konhat88.github.io/site/blog/2024/photo-gallery</id><content type="html" xml:base="https://konhat88.github.io/site/blog/2024/photo-gallery/">&lt;p&gt;The images in this post are all zoomable, arranged into different mini-galleries using different libraries.&lt;/p&gt;
+
+&lt;h2 id=&quot;lightbox2&quot;&gt;&lt;a href=&quot;https://lokeshdhakar.com/projects/lightbox2/&quot;&gt;Lightbox2&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg&quot; data-lightbox=&quot;roadtrip&quot;&gt;&lt;img src=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg&quot; data-lightbox=&quot;roadtrip&quot;&gt;&lt;img src=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg&quot; data-lightbox=&quot;roadtrip&quot;&gt;&lt;img src=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;photoswipe&quot;&gt;&lt;a href=&quot;https://photoswipe.com/&quot;&gt;PhotoSwipe&lt;/a&gt;&lt;/h2&gt;
+
+&lt;div class=&quot;pswp-gallery pswp-gallery--single-column&quot; id=&quot;gallery--getting-started&quot;&gt;
+  &lt;a href=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg&quot; data-pswp-width=&quot;1669&quot; data-pswp-height=&quot;2500&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+  &lt;!-- cropped thumbnail: --&gt;
+  &lt;a href=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-2500.jpg&quot; data-pswp-width=&quot;1875&quot; data-pswp-height=&quot;2500&quot; data-cropped=&quot;true&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-200.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+  &lt;!-- data-pswp-src with custom URL in href --&gt;
+  &lt;a href=&quot;https://unsplash.com&quot; data-pswp-src=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg&quot; data-pswp-width=&quot;2500&quot; data-pswp-height=&quot;1666&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;/a&gt;
+  &lt;!-- wrapped with any element: --&gt;
+  &lt;div&gt;
+    &lt;a href=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-2500.jpg&quot; data-pswp-width=&quot;2500&quot; data-pswp-height=&quot;1667&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-200.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;spotlight-js&quot;&gt;&lt;a href=&quot;https://nextapps-de.github.io/spotlight/&quot;&gt;Spotlight JS&lt;/a&gt;&lt;/h2&gt;
+
+&lt;!-- Group 1 --&gt;
+&lt;div class=&quot;spotlight-group&quot;&gt;
+    &lt;a class=&quot;spotlight&quot; href=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg&quot;&gt;
+        &lt;img src=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;a class=&quot;spotlight&quot; href=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg&quot;&gt;
+        &lt;img src=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;a class=&quot;spotlight&quot; href=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg&quot;&gt;
+        &lt;img src=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+&lt;!-- Group 2 --&gt;
+&lt;div class=&quot;spotlight-group&quot;&gt;
+    &lt;a class=&quot;spotlight&quot; href=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/4/img-2500.jpg&quot;&gt;
+        &lt;img src=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/4/img-200.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;a class=&quot;spotlight&quot; href=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/5/img-2500.jpg&quot;&gt;
+        &lt;img src=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/5/img-200.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;a class=&quot;spotlight&quot; href=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-2500.jpg&quot;&gt;
+        &lt;img src=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-200.jpg&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;venobox&quot;&gt;&lt;a href=&quot;https://veno.es/venobox/&quot;&gt;Venobox&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a class=&quot;venobox&quot; data-gall=&quot;myGallery&quot; href=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg&quot;&gt;&lt;img src=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a class=&quot;venobox&quot; data-gall=&quot;myGallery&quot; href=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg&quot;&gt;&lt;img src=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a class=&quot;venobox&quot; data-gall=&quot;myGallery&quot; href=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg&quot;&gt;&lt;img src=&quot;https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="formatting" /><category term="images" /><summary type="html">The images in this post are all zoomable, arranged into different mini-galleries using different libraries.</summary></entry><entry><title type="html">a post with tabs</title><link href="https://konhat88.github.io/site/blog/2024/tabs/" rel="alternate" type="text/html" title="a post with tabs" /><published>2024-05-01T00:32:13+00:00</published><updated>2024-05-01T00:32:13+00:00</updated><id>https://konhat88.github.io/site/blog/2024/tabs</id><content type="html" xml:base="https://konhat88.github.io/site/blog/2024/tabs/">&lt;p&gt;This is how a post with &lt;a href=&quot;https://github.com/Ovski4/jekyll-tabs&quot;&gt;tabs&lt;/a&gt; looks like. Note that the tabs could be used for different purposes, not only for code.&lt;/p&gt;
+
+&lt;h2 id=&quot;first-tabs&quot;&gt;First tabs&lt;/h2&gt;
+
+&lt;p&gt;To add tabs, use the following syntax:&lt;/p&gt;
+
+&lt;div class=&quot;language-liquid highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;tabs&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;group-name&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;
+
+&lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;tab&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;group-name&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;tab-name-1&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;
+
+Content 1
+
+&lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;endtab&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;
+
+&lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;tab&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;group-name&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;tab-name-2&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;
+
+Content 2
+
+&lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;endtab&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;
+
+&lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;endtabs&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;With this you can generate visualizations like:&lt;/p&gt;
+
+&lt;ul class=&quot;tab&quot; data-tab=&quot;6c064091-d7f0-4356-8f30-49d40e86f92e&quot;&gt;
+    
+        &lt;li class=&quot;active&quot;&gt;
+            &lt;a href=&quot;&quot;&gt;php&lt;/a&gt;
+        &lt;/li&gt;
+    
+        &lt;li&gt;
+            &lt;a href=&quot;&quot;&gt;js&lt;/a&gt;
+        &lt;/li&gt;
+    
+        &lt;li&gt;
+            &lt;a href=&quot;&quot;&gt;ruby&lt;/a&gt;
+        &lt;/li&gt;
+    
+    &lt;/ul&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;ul class=&quot;tab-content&quot; id=&quot;6c064091-d7f0-4356-8f30-49d40e86f92e&quot;&amp;gt;
+
+    &amp;lt;li class=&quot;active&quot;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;var_dump&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;hello&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;lt;/li&amp;gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &amp;lt;li&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;hello&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;lt;/li&amp;gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &amp;lt;li&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;pputs&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;hello&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;lt;/li&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/ul&amp;gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;another-example&quot;&gt;Another example&lt;/h2&gt;
+
+&lt;ul class=&quot;tab&quot; data-tab=&quot;ea7ebbd2-461a-441f-870b-c52dcd456254&quot;&gt;
+    
+        &lt;li class=&quot;active&quot;&gt;
+            &lt;a href=&quot;&quot;&gt;yaml&lt;/a&gt;
+        &lt;/li&gt;
+    
+        &lt;li&gt;
+            &lt;a href=&quot;&quot;&gt;json&lt;/a&gt;
+        &lt;/li&gt;
+    
+    &lt;/ul&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;ul class=&quot;tab-content&quot; id=&quot;ea7ebbd2-461a-441f-870b-c52dcd456254&quot;&amp;gt;
+
+    &amp;lt;li class=&quot;active&quot;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;hello&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;whatsup&quot;&lt;/span&gt;
+  &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;hi&quot;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;lt;/li&amp;gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &amp;lt;li&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;hello&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;whatsup&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;hi&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;lt;/li&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/ul&amp;gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tabs-for-something-else&quot;&gt;Tabs for something else&lt;/h2&gt;
+
+&lt;ul class=&quot;tab&quot; data-tab=&quot;3ba33832-cf8d-4d97-99ca-86a3d00e622a&quot;&gt;
+    
+        &lt;li class=&quot;active&quot;&gt;
+            &lt;a href=&quot;&quot;&gt;text&lt;/a&gt;
+        &lt;/li&gt;
+    
+        &lt;li&gt;
+            &lt;a href=&quot;&quot;&gt;quote&lt;/a&gt;
+        &lt;/li&gt;
+    
+        &lt;li&gt;
+            &lt;a href=&quot;&quot;&gt;list&lt;/a&gt;
+        &lt;/li&gt;
+    
+    &lt;/ul&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;ul class=&quot;tab-content&quot; id=&quot;3ba33832-cf8d-4d97-99ca-86a3d00e622a&quot;&amp;gt;
+
+    &amp;lt;li class=&quot;active&quot;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Regular text&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/li&amp;gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &amp;lt;li&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;A quote&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&amp;lt;/li&amp;gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &amp;lt;li&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Hipster list&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;brunch&lt;/li&gt;
+  &lt;li&gt;fixie&lt;/li&gt;
+  &lt;li&gt;raybans&lt;/li&gt;
+  &lt;li&gt;messenger bag&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;lt;/li&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/ul&amp;gt;&lt;/p&gt;</content><author><name></name></author><category term="formatting" /><category term="code" /><summary type="html">This is how a post with tabs looks like. Note that the tabs could be used for different purposes, not only for code.</summary></entry><entry><title type="html">a post with typograms</title><link href="https://konhat88.github.io/site/blog/2024/typograms/" rel="alternate" type="text/html" title="a post with typograms" /><published>2024-04-29T23:36:10+00:00</published><updated>2024-04-29T23:36:10+00:00</updated><id>https://konhat88.github.io/site/blog/2024/typograms</id><content type="html" xml:base="https://konhat88.github.io/site/blog/2024/typograms/">&lt;p&gt;This is an example post with some &lt;a href=&quot;https://github.com/google/typograms/&quot;&gt;typograms&lt;/a&gt; code.&lt;/p&gt;
+
+&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;typograms
+&lt;/span&gt;&lt;span class=&quot;sb&quot;&gt;+----+
+|    |---&amp;gt; My first diagram!
++----+&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;```&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Which generates:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-typograms&quot;&gt;+----+
+|    |---&amp;gt; My first diagram!
++----+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Another example:&lt;/p&gt;
+
+&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;typograms
+&lt;/span&gt;&lt;span class=&quot;sb&quot;&gt;.------------------------.
+|.----------------------.|
+||&quot;https://example.com&quot; ||
+|&apos;----------------------&apos;|
+| ______________________ |
+||                      ||
+||   Welcome!           ||
+||                      ||
+||                      ||
+||  .----------------.  ||
+||  | username       |  ||
+||  &apos;----------------&apos;  ||
+||  .----------------.  ||
+||  |&quot;*******&quot;       |  ||
+||  &apos;----------------&apos;  ||
+||                      ||
+||  .----------------.  ||
+||  |   &quot;Sign-up&quot;    |  ||
+||  &apos;----------------&apos;  ||
+||                      ||
+|+----------------------+|
+.------------------------.&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;```&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;which generates:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-typograms&quot;&gt;.------------------------.
+|.----------------------.|
+||&quot;https://example.com&quot; ||
+|&apos;----------------------&apos;|
+| ______________________ |
+||                      ||
+||   Welcome!           ||
+||                      ||
+||                      ||
+||  .----------------.  ||
+||  | username       |  ||
+||  &apos;----------------&apos;  ||
+||  .----------------.  ||
+||  |&quot;*******&quot;       |  ||
+||  &apos;----------------&apos;  ||
+||                      ||
+||  .----------------.  ||
+||  |   &quot;Sign-up&quot;    |  ||
+||  &apos;----------------&apos;  ||
+||                      ||
+|+----------------------+|
+.------------------------.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;For more examples, check out the &lt;a href=&quot;https://google.github.io/typograms/#examples&quot;&gt;typograms documentation&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="formatting" /><category term="diagrams" /><summary type="html">This is an example post with some typograms code.</summary></entry><entry><title type="html">a post that can be cited</title><link href="https://konhat88.github.io/site/blog/2024/post-citation/" rel="alternate" type="text/html" title="a post that can be cited" /><published>2024-04-28T15:06:00+00:00</published><updated>2024-04-28T15:06:00+00:00</updated><id>https://konhat88.github.io/site/blog/2024/post-citation</id><content type="html" xml:base="https://konhat88.github.io/site/blog/2024/post-citation/">&lt;p&gt;This is an example post that can be cited. The content of the post ends here, while the citation information is automatically provided below. The only thing needed is for you to set the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;citation&lt;/code&gt; key in the front matter to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;true&lt;/code&gt;.&lt;/p&gt;</content><author><name></name></author><category term="formatting" /><category term="citation" /><summary type="html">This is an example post that can be cited. The content of the post ends here, while the citation information is automatically provided below. The only thing needed is for you to set the citation key in the front matter to true.</summary></entry><entry><title type="html">a post with pseudo code</title><link href="https://konhat88.github.io/site/blog/2024/pseudocode/" rel="alternate" type="text/html" title="a post with pseudo code" /><published>2024-04-15T00:01:00+00:00</published><updated>2024-04-15T00:01:00+00:00</updated><id>https://konhat88.github.io/site/blog/2024/pseudocode</id><content type="html" xml:base="https://konhat88.github.io/site/blog/2024/pseudocode/">&lt;p&gt;This is an example post with some pseudo code rendered by &lt;a href=&quot;https://github.com/SaswatPadhi/pseudocode.js&quot;&gt;pseudocode&lt;/a&gt;. The example presented here is the same as the one in the &lt;a href=&quot;https://saswat.padhi.me/pseudocode.js/&quot;&gt;pseudocode.js&lt;/a&gt; documentation, with only one simple but important change: everytime you would use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;$&lt;/code&gt;, you should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;$$&lt;/code&gt; instead. Also, note that the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pseudocode&lt;/code&gt; key in the front matter is set to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;true&lt;/code&gt; to enable the rendering of pseudo code. As an example, using this code:&lt;/p&gt;
+
+&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;pseudocode
+&lt;/span&gt;&lt;span class=&quot;sb&quot;&gt;% This quicksort algorithm is extracted from Chapter 7, Introduction to Algorithms (3rd edition)
+\begin{algorithm}
+\caption{Quicksort}
+\begin{algorithmic}
+\PROCEDURE{Quicksort}{$$A, p, r$$}
+    \IF{$$p &amp;lt; r$$}
+        \STATE $$q = $$ \CALL{Partition}{$$A, p, r$$}
+        \STATE \CALL{Quicksort}{$$A, p, q - 1$$}
+        \STATE \CALL{Quicksort}{$$A, q + 1, r$$}
+    \ENDIF
+\ENDPROCEDURE
+\PROCEDURE{Partition}{$$A, p, r$$}
+    \STATE $$x = A[r]$$
+    \STATE $$i = p - 1$$
+    \FOR{$$j = p$$ \TO $$r - 1$$}
+        \IF{$$A[j] &amp;lt; x$$}
+            \STATE $$i = i + 1$$
+            \STATE exchange
+            $$A[i]$$ with $$A[j]$$
+        \ENDIF
+        \STATE exchange $$A[i]$$ with $$A[r]$$
+    \ENDFOR
+\ENDPROCEDURE
+\end{algorithmic}
+\end{algorithm}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;```&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Generates:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-pseudocode&quot;&gt;% This quicksort algorithm is extracted from Chapter 7, Introduction to Algorithms (3rd edition)
+\begin{algorithm}
+\caption{Quicksort}
+\begin{algorithmic}
+\PROCEDURE{Quicksort}{$$A, p, r$$}
+    \IF{$$p &amp;lt; r$$}
+        \STATE $$q = $$ \CALL{Partition}{$$A, p, r$$}
+        \STATE \CALL{Quicksort}{$$A, p, q - 1$$}
+        \STATE \CALL{Quicksort}{$$A, q + 1, r$$}
+    \ENDIF
+\ENDPROCEDURE
+\PROCEDURE{Partition}{$$A, p, r$$}
+    \STATE $$x = A[r]$$
+    \STATE $$i = p - 1$$
+    \FOR{$$j = p$$ \TO $$r - 1$$}
+        \IF{$$A[j] &amp;lt; x$$}
+            \STATE $$i = i + 1$$
+            \STATE exchange
+            $$A[i]$$ with $$A[j]$$
+        \ENDIF
+        \STATE exchange $$A[i]$$ with $$A[r]$$
+    \ENDFOR
+\ENDPROCEDURE
+\end{algorithmic}
+\end{algorithm}
+&lt;/code&gt;&lt;/pre&gt;</content><author><name></name></author><category term="formatting" /><category term="code" /><summary type="html">This is an example post with some pseudo code rendered by pseudocode. The example presented here is the same as the one in the pseudocode.js documentation, with only one simple but important change: everytime you would use $, you should use $$ instead. Also, note that the pseudocode key in the front matter is set to true to enable the rendering of pseudo code. As an example, using this code:</summary></entry><entry><title type="html">a post with code diff</title><link href="https://konhat88.github.io/site/blog/2024/code-diff/" rel="alternate" type="text/html" title="a post with code diff" /><published>2024-01-27T19:22:00+00:00</published><updated>2024-01-27T19:22:00+00:00</updated><id>https://konhat88.github.io/site/blog/2024/code-diff</id><content type="html" xml:base="https://konhat88.github.io/site/blog/2024/code-diff/">&lt;p&gt;You can display diff code by using the regular markdown syntax:&lt;/p&gt;
+
+&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;diff
+&lt;/span&gt;&lt;span class=&quot;gh&quot;&gt;diff --git a/sample.js b/sample.js
+index 0000001..0ddf2ba
+&lt;/span&gt;&lt;span class=&quot;gd&quot;&gt;--- a/sample.js
+&lt;/span&gt;&lt;span class=&quot;gi&quot;&gt;+++ b/sample.js
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;@@ -1 +1 @@&lt;/span&gt;
+&lt;span class=&quot;gd&quot;&gt;-console.log(&quot;Hello World!&quot;)
+&lt;/span&gt;&lt;span class=&quot;gi&quot;&gt;+console.log(&quot;Hello from Diff2Html!&quot;)&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;```&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Which generates:&lt;/p&gt;
+
+&lt;div class=&quot;language-diff highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;gh&quot;&gt;diff --git a/sample.js b/sample.js
+index 0000001..0ddf2ba
+&lt;/span&gt;&lt;span class=&quot;gd&quot;&gt;--- a/sample.js
+&lt;/span&gt;&lt;span class=&quot;gi&quot;&gt;+++ b/sample.js
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;@@ -1 +1 @@&lt;/span&gt;
+&lt;span class=&quot;gd&quot;&gt;-console.log(&quot;Hello World!&quot;)
+&lt;/span&gt;&lt;span class=&quot;gi&quot;&gt;+console.log(&quot;Hello from Diff2Html!&quot;)
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;But this is difficult to read, specially if you have a large diff. You can use &lt;a href=&quot;https://diff2html.xyz/&quot;&gt;diff2html&lt;/a&gt; to display a more readable version of the diff. For this, just use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;diff2html&lt;/code&gt; instead of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;diff&lt;/code&gt; for the code block language:&lt;/p&gt;
+
+&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;diff2html
+&lt;/span&gt;&lt;span class=&quot;sb&quot;&gt;diff --git a/sample.js b/sample.js
+index 0000001..0ddf2ba
+--- a/sample.js
++++ b/sample.js
+@@ -1 +1 @@
+-console.log(&quot;Hello World!&quot;)
++console.log(&quot;Hello from Diff2Html!&quot;)&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;```&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If we use a longer example, for example &lt;a href=&quot;https://github.com/rtfpessoa/diff2html/commit/c2c253d3e3f8b8b267f551e659f72b44ca2ac927&quot;&gt;this commit from diff2html&lt;/a&gt;, it will generate the following output:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-diff2html&quot;&gt;From 2aaae31cc2a37bfff83430c2c914b140bee59b6a Mon Sep 17 00:00:00 2001
+From: Rodrigo Fernandes &amp;lt;rtfrodrigo@gmail.com&amp;gt;
+Date: Sun, 9 Oct 2016 16:41:54 +0100
+Subject: [PATCH 1/2] Initial template override support
+
+---
+ scripts/hulk.js                    |  4 ++--
+ src/diff2html.js                   |  3 +--
+ src/file-list-printer.js           | 11 ++++++++---
+ src/hoganjs-utils.js               | 29 +++++++++++++++++------------
+ src/html-printer.js                |  6 ++++++
+ src/line-by-line-printer.js        |  6 +++++-
+ src/side-by-side-printer.js        |  6 +++++-
+ test/file-list-printer-tests.js    |  2 +-
+ test/hogan-cache-tests.js          | 18 +++++++++++++++---
+ test/line-by-line-tests.js         |  3 +--
+ test/side-by-side-printer-tests.js |  3 +--
+ 11 files changed, 62 insertions(+), 29 deletions(-)
+
+diff --git a/scripts/hulk.js b/scripts/hulk.js
+index 5a793c18..a4b1a4d5 100755
+--- a/scripts/hulk.js
++++ b/scripts/hulk.js
+@@ -173,11 +173,11 @@ function namespace(name) {
+ // write a template foreach file that matches template extension
+ templates = extractFiles(options.argv.remain)
+   .map(function(file) {
+-    var openedFile = fs.readFileSync(file, &apos;utf-8&apos;);
++    var openedFile = fs.readFileSync(file, &apos;utf-8&apos;).trim();
+     var name;
+     if (!openedFile) return;
+     name = namespace(path.basename(file).replace(/\..*$/, &apos;&apos;));
+-    openedFile = removeByteOrderMark(openedFile.trim());
++    openedFile = removeByteOrderMark(openedFile);
+     openedFile = wrap(file, name, openedFile);
+     if (!options.outputdir) return openedFile;
+     fs.writeFileSync(path.join(options.outputdir, name + &apos;.js&apos;)
+diff --git a/src/diff2html.js b/src/diff2html.js
+index 21b0119e..64e138f5 100644
+--- a/src/diff2html.js
++++ b/src/diff2html.js
+@@ -7,7 +7,6 @@
+
+ (function() {
+   var diffParser = require(&apos;./diff-parser.js&apos;).DiffParser;
+-  var fileLister = require(&apos;./file-list-printer.js&apos;).FileListPrinter;
+   var htmlPrinter = require(&apos;./html-printer.js&apos;).HtmlPrinter;
+
+   function Diff2Html() {
+@@ -43,7 +42,7 @@
+
+     var fileList = &apos;&apos;;
+     if (configOrEmpty.showFiles === true) {
+-      fileList = fileLister.generateFileList(diffJson, configOrEmpty);
++      fileList = htmlPrinter.generateFileListSummary(diffJson, configOrEmpty);
+     }
+
+     var diffOutput = &apos;&apos;;
+diff --git a/src/file-list-printer.js b/src/file-list-printer.js
+index e408d9b2..1e0a2c61 100644
+--- a/src/file-list-printer.js
++++ b/src/file-list-printer.js
+@@ -8,11 +8,16 @@
+ (function() {
+   var printerUtils = require(&apos;./printer-utils.js&apos;).PrinterUtils;
+
+-  var hoganUtils = require(&apos;./hoganjs-utils.js&apos;).HoganJsUtils;
++  var hoganUtils;
++
+   var baseTemplatesPath = &apos;file-summary&apos;;
+   var iconsBaseTemplatesPath = &apos;icon&apos;;
+
+-  function FileListPrinter() {
++  function FileListPrinter(config) {
++    this.config = config;
++
++    var HoganJsUtils = require(&apos;./hoganjs-utils.js&apos;).HoganJsUtils;
++    hoganUtils = new HoganJsUtils(config);
+   }
+
+   FileListPrinter.prototype.generateFileList = function(diffFiles) {
+@@ -38,5 +43,5 @@
+     });
+   };
+
+-  module.exports.FileListPrinter = new FileListPrinter();
++  module.exports.FileListPrinter = FileListPrinter;
+ })();
+diff --git a/src/hoganjs-utils.js b/src/hoganjs-utils.js
+index 9949e5fa..0dda08d7 100644
+--- a/src/hoganjs-utils.js
++++ b/src/hoganjs-utils.js
+@@ -8,18 +8,19 @@
+ (function() {
+   var fs = require(&apos;fs&apos;);
+   var path = require(&apos;path&apos;);
+-
+   var hogan = require(&apos;hogan.js&apos;);
+
+   var hoganTemplates = require(&apos;./templates/diff2html-templates.js&apos;);
+
+-  var templatesPath = path.resolve(__dirname, &apos;templates&apos;);
++  var extraTemplates;
+
+-  function HoganJsUtils() {
++  function HoganJsUtils(configuration) {
++    this.config = configuration || {};
++    extraTemplates = this.config.templates || {};
+   }
+
+-  HoganJsUtils.prototype.render = function(namespace, view, params, configuration) {
+-    var template = this.template(namespace, view, configuration);
++  HoganJsUtils.prototype.render = function(namespace, view, params) {
++    var template = this.template(namespace, view);
+     if (template) {
+       return template.render(params);
+     }
+@@ -27,17 +28,16 @@
+     return null;
+   };
+
+-  HoganJsUtils.prototype.template = function(namespace, view, configuration) {
+-    var config = configuration || {};
++  HoganJsUtils.prototype.template = function(namespace, view) {
+     var templateKey = this._templateKey(namespace, view);
+
+-    return this._getTemplate(templateKey, config);
++    return this._getTemplate(templateKey);
+   };
+
+-  HoganJsUtils.prototype._getTemplate = function(templateKey, config) {
++  HoganJsUtils.prototype._getTemplate = function(templateKey) {
+     var template;
+
+-    if (!config.noCache) {
++    if (!this.config.noCache) {
+       template = this._readFromCache(templateKey);
+     }
+
+@@ -53,6 +53,7 @@
+
+     try {
+       if (fs.readFileSync) {
++        var templatesPath = path.resolve(__dirname, &apos;templates&apos;);
+         var templatePath = path.join(templatesPath, templateKey);
+         var templateContent = fs.readFileSync(templatePath + &apos;.mustache&apos;, &apos;utf8&apos;);
+         template = hogan.compile(templateContent);
+@@ -66,12 +67,16 @@
+   };
+
+   HoganJsUtils.prototype._readFromCache = function(templateKey) {
+-    return hoganTemplates[templateKey];
++    return extraTemplates[templateKey] || hoganTemplates[templateKey];
+   };
+
+   HoganJsUtils.prototype._templateKey = function(namespace, view) {
+     return namespace + &apos;-&apos; + view;
+   };
+
+-  module.exports.HoganJsUtils = new HoganJsUtils();
++  HoganJsUtils.prototype.compile = function(templateStr) {
++    return hogan.compile(templateStr);
++  };
++
++  module.exports.HoganJsUtils = HoganJsUtils;
+ })();
+diff --git a/src/html-printer.js b/src/html-printer.js
+index 585d5b66..13f83047 100644
+--- a/src/html-printer.js
++++ b/src/html-printer.js
+@@ -8,6 +8,7 @@
+ (function() {
+   var LineByLinePrinter = require(&apos;./line-by-line-printer.js&apos;).LineByLinePrinter;
+   var SideBySidePrinter = require(&apos;./side-by-side-printer.js&apos;).SideBySidePrinter;
++  var FileListPrinter = require(&apos;./file-list-printer.js&apos;).FileListPrinter;
+
+   function HtmlPrinter() {
+   }
+@@ -22,5 +23,10 @@
+     return sideBySidePrinter.generateSideBySideJsonHtml(diffFiles);
+   };
+
++  HtmlPrinter.prototype.generateFileListSummary = function(diffJson, config) {
++    var fileListPrinter = new FileListPrinter(config);
++    return fileListPrinter.generateFileList(diffJson);
++  };
++
+   module.exports.HtmlPrinter = new HtmlPrinter();
+ })();
+diff --git a/src/line-by-line-printer.js b/src/line-by-line-printer.js
+index b07eb53c..d230bedd 100644
+--- a/src/line-by-line-printer.js
++++ b/src/line-by-line-printer.js
+@@ -11,7 +11,8 @@
+   var utils = require(&apos;./utils.js&apos;).Utils;
+   var Rematch = require(&apos;./rematch.js&apos;).Rematch;
+
+-  var hoganUtils = require(&apos;./hoganjs-utils.js&apos;).HoganJsUtils;
++  var hoganUtils;
++
+   var genericTemplatesPath = &apos;generic&apos;;
+   var baseTemplatesPath = &apos;line-by-line&apos;;
+   var iconsBaseTemplatesPath = &apos;icon&apos;;
+@@ -19,6 +20,9 @@
+
+   function LineByLinePrinter(config) {
+     this.config = config;
++
++    var HoganJsUtils = require(&apos;./hoganjs-utils.js&apos;).HoganJsUtils;
++    hoganUtils = new HoganJsUtils(config);
+   }
+
+   LineByLinePrinter.prototype.makeFileDiffHtml = function(file, diffs) {
+diff --git a/src/side-by-side-printer.js b/src/side-by-side-printer.js
+index bbf1dc8d..5e3033b3 100644
+--- a/src/side-by-side-printer.js
++++ b/src/side-by-side-printer.js
+@@ -11,7 +11,8 @@
+   var utils = require(&apos;./utils.js&apos;).Utils;
+   var Rematch = require(&apos;./rematch.js&apos;).Rematch;
+
+-  var hoganUtils = require(&apos;./hoganjs-utils.js&apos;).HoganJsUtils;
++  var hoganUtils;
++
+   var genericTemplatesPath = &apos;generic&apos;;
+   var baseTemplatesPath = &apos;side-by-side&apos;;
+   var iconsBaseTemplatesPath = &apos;icon&apos;;
+@@ -26,6 +27,9 @@
+
+   function SideBySidePrinter(config) {
+     this.config = config;
++
++    var HoganJsUtils = require(&apos;./hoganjs-utils.js&apos;).HoganJsUtils;
++    hoganUtils = new HoganJsUtils(config);
+   }
+
+   SideBySidePrinter.prototype.makeDiffHtml = function(file, diffs) {
+diff --git a/test/file-list-printer-tests.js b/test/file-list-printer-tests.js
+index a502a46f..60ea3208 100644
+--- a/test/file-list-printer-tests.js
++++ b/test/file-list-printer-tests.js
+@@ -1,6 +1,6 @@
+ var assert = require(&apos;assert&apos;);
+
+-var fileListPrinter = require(&apos;../src/file-list-printer.js&apos;).FileListPrinter;
++var fileListPrinter = new (require(&apos;../src/file-list-printer.js&apos;).FileListPrinter)();
+
+ describe(&apos;FileListPrinter&apos;, function() {
+   describe(&apos;generateFileList&apos;, function() {
+diff --git a/test/hogan-cache-tests.js b/test/hogan-cache-tests.js
+index 190bf6f8..3bb754ac 100644
+--- a/test/hogan-cache-tests.js
++++ b/test/hogan-cache-tests.js
+@@ -1,6 +1,6 @@
+ var assert = require(&apos;assert&apos;);
+
+-var HoganJsUtils = require(&apos;../src/hoganjs-utils.js&apos;).HoganJsUtils;
++var HoganJsUtils = new (require(&apos;../src/hoganjs-utils.js&apos;).HoganJsUtils)();
+ var diffParser = require(&apos;../src/diff-parser.js&apos;).DiffParser;
+
+ describe(&apos;HoganJsUtils&apos;, function() {
+@@ -21,16 +21,28 @@ describe(&apos;HoganJsUtils&apos;, function() {
+       });
+       assert.equal(emptyDiffHtml, result);
+     });
++
+     it(&apos;should render view without cache&apos;, function() {
+       var result = HoganJsUtils.render(&apos;generic&apos;, &apos;empty-diff&apos;, {
+         contentClass: &apos;d2h-code-line&apos;,
+         diffParser: diffParser
+       }, {noCache: true});
+-      assert.equal(emptyDiffHtml + &apos;\n&apos;, result);
++      assert.equal(emptyDiffHtml, result);
+     });
++
+     it(&apos;should return null if template is missing&apos;, function() {
+-      var result = HoganJsUtils.render(&apos;generic&apos;, &apos;missing-template&apos;, {}, {noCache: true});
++      var hoganUtils = new (require(&apos;../src/hoganjs-utils.js&apos;).HoganJsUtils)({noCache: true});
++      var result = hoganUtils.render(&apos;generic&apos;, &apos;missing-template&apos;, {});
+       assert.equal(null, result);
+     });
++
++    it(&apos;should allow templates to be overridden&apos;, function() {
++      var emptyDiffTemplate = HoganJsUtils.compile(&apos;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&apos;);
++
++      var config = {templates: {&apos;generic-empty-diff&apos;: emptyDiffTemplate}};
++      var hoganUtils = new (require(&apos;../src/hoganjs-utils.js&apos;).HoganJsUtils)(config);
++      var result = hoganUtils.render(&apos;generic&apos;, &apos;empty-diff&apos;, {myName: &apos;Rodrigo Fernandes&apos;});
++      assert.equal(&apos;&amp;lt;p&amp;gt;Rodrigo Fernandes&amp;lt;/p&amp;gt;&apos;, result);
++    });
+   });
+ });
+diff --git a/test/line-by-line-tests.js b/test/line-by-line-tests.js
+index 1cd92073..8869b3df 100644
+--- a/test/line-by-line-tests.js
++++ b/test/line-by-line-tests.js
+@@ -14,7 +14,7 @@ describe(&apos;LineByLinePrinter&apos;, function() {
+         &apos;            File without changes\n&apos; +
+         &apos;        &amp;lt;/div&amp;gt;\n&apos; +
+         &apos;    &amp;lt;/td&amp;gt;\n&apos; +
+-        &apos;&amp;lt;/tr&amp;gt;\n&apos;;
++        &apos;&amp;lt;/tr&amp;gt;&apos;;
+
+       assert.equal(expected, fileHtml);
+     });
+@@ -422,7 +422,6 @@ describe(&apos;LineByLinePrinter&apos;, function() {
+         &apos;        &amp;lt;/div&amp;gt;\n&apos; +
+         &apos;    &amp;lt;/td&amp;gt;\n&apos; +
+         &apos;&amp;lt;/tr&amp;gt;\n&apos; +
+-        &apos;\n&apos; +
+         &apos;                &amp;lt;/tbody&amp;gt;\n&apos; +
+         &apos;            &amp;lt;/table&amp;gt;\n&apos; +
+         &apos;        &amp;lt;/div&amp;gt;\n&apos; +
+diff --git a/test/side-by-side-printer-tests.js b/test/side-by-side-printer-tests.js
+index 76625f8e..771daaa5 100644
+--- a/test/side-by-side-printer-tests.js
++++ b/test/side-by-side-printer-tests.js
+@@ -14,7 +14,7 @@ describe(&apos;SideBySidePrinter&apos;, function() {
+         &apos;            File without changes\n&apos; +
+         &apos;        &amp;lt;/div&amp;gt;\n&apos; +
+         &apos;    &amp;lt;/td&amp;gt;\n&apos; +
+-        &apos;&amp;lt;/tr&amp;gt;\n&apos;;
++        &apos;&amp;lt;/tr&amp;gt;&apos;;
+
+       assert.equal(expectedRight, fileHtml.right);
+       assert.equal(expectedLeft, fileHtml.left);
+@@ -324,7 +324,6 @@ describe(&apos;SideBySidePrinter&apos;, function() {
+         &apos;        &amp;lt;/div&amp;gt;\n&apos; +
+         &apos;    &amp;lt;/td&amp;gt;\n&apos; +
+         &apos;&amp;lt;/tr&amp;gt;\n&apos; +
+-        &apos;\n&apos; +
+         &apos;                    &amp;lt;/tbody&amp;gt;\n&apos; +
+         &apos;                &amp;lt;/table&amp;gt;\n&apos; +
+         &apos;            &amp;lt;/div&amp;gt;\n&apos; +
+
+From f3cadb96677d0eb82fc2752dc3ffbf35ca9b5bdb Mon Sep 17 00:00:00 2001
+From: Rodrigo Fernandes &amp;lt;rtfrodrigo@gmail.com&amp;gt;
+Date: Sat, 15 Oct 2016 13:21:22 +0100
+Subject: [PATCH 2/2] Allow uncompiled templates
+
+---
+ README.md                 |  3 +++
+ src/hoganjs-utils.js      |  7 +++++++
+ test/hogan-cache-tests.js | 24 +++++++++++++++++++++++-
+ 3 files changed, 33 insertions(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 132c8a28..46909f25 100644
+--- a/README.md
++++ b/README.md
+@@ -98,6 +98,9 @@ The HTML output accepts a Javascript object with configuration. Possible options
+   - `synchronisedScroll`: scroll both panes in side-by-side mode: `true` or `false`, default is `false`
+   - `matchWordsThreshold`: similarity threshold for word matching, default is 0.25
+   - `matchingMaxComparisons`: perform at most this much comparisons for line matching a block of changes, default is `2500`
++  - `templates`: object with previously compiled templates to replace parts of the html
++  - `rawTemplates`: object with raw not compiled templates to replace parts of the html
++  &amp;gt; For more information regarding the possible templates look into [src/templates](https://github.com/rtfpessoa/diff2html/tree/master/src/templates)
+
+ ## Diff2HtmlUI Helper
+
+diff --git a/src/hoganjs-utils.js b/src/hoganjs-utils.js
+index 0dda08d7..b2e9c275 100644
+--- a/src/hoganjs-utils.js
++++ b/src/hoganjs-utils.js
+@@ -17,6 +17,13 @@
+   function HoganJsUtils(configuration) {
+     this.config = configuration || {};
+     extraTemplates = this.config.templates || {};
++
++    var rawTemplates = this.config.rawTemplates || {};
++    for (var templateName in rawTemplates) {
++      if (rawTemplates.hasOwnProperty(templateName)) {
++        if (!extraTemplates[templateName]) extraTemplates[templateName] = this.compile(rawTemplates[templateName]);
++      }
++    }
+   }
+
+   HoganJsUtils.prototype.render = function(namespace, view, params) {
+diff --git a/test/hogan-cache-tests.js b/test/hogan-cache-tests.js
+index 3bb754ac..a34839c0 100644
+--- a/test/hogan-cache-tests.js
++++ b/test/hogan-cache-tests.js
+@@ -36,7 +36,7 @@ describe(&apos;HoganJsUtils&apos;, function() {
+       assert.equal(null, result);
+     });
+
+-    it(&apos;should allow templates to be overridden&apos;, function() {
++    it(&apos;should allow templates to be overridden with compiled templates&apos;, function() {
+       var emptyDiffTemplate = HoganJsUtils.compile(&apos;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&apos;);
+
+       var config = {templates: {&apos;generic-empty-diff&apos;: emptyDiffTemplate}};
+@@ -44,5 +44,27 @@ describe(&apos;HoganJsUtils&apos;, function() {
+       var result = hoganUtils.render(&apos;generic&apos;, &apos;empty-diff&apos;, {myName: &apos;Rodrigo Fernandes&apos;});
+       assert.equal(&apos;&amp;lt;p&amp;gt;Rodrigo Fernandes&amp;lt;/p&amp;gt;&apos;, result);
+     });
++
++    it(&apos;should allow templates to be overridden with uncompiled templates&apos;, function() {
++      var emptyDiffTemplate = &apos;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&apos;;
++
++      var config = {rawTemplates: {&apos;generic-empty-diff&apos;: emptyDiffTemplate}};
++      var hoganUtils = new (require(&apos;../src/hoganjs-utils.js&apos;).HoganJsUtils)(config);
++      var result = hoganUtils.render(&apos;generic&apos;, &apos;empty-diff&apos;, {myName: &apos;Rodrigo Fernandes&apos;});
++      assert.equal(&apos;&amp;lt;p&amp;gt;Rodrigo Fernandes&amp;lt;/p&amp;gt;&apos;, result);
++    });
++
++    it(&apos;should allow templates to be overridden giving priority to compiled templates&apos;, function() {
++      var emptyDiffTemplate = HoganJsUtils.compile(&apos;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&apos;);
++      var emptyDiffTemplateUncompiled = &apos;&amp;lt;p&amp;gt;Not used!&amp;lt;/p&amp;gt;&apos;;
++
++      var config = {
++        templates: {&apos;generic-empty-diff&apos;: emptyDiffTemplate},
++        rawTemplates: {&apos;generic-empty-diff&apos;: emptyDiffTemplateUncompiled}
++      };
++      var hoganUtils = new (require(&apos;../src/hoganjs-utils.js&apos;).HoganJsUtils)(config);
++      var result = hoganUtils.render(&apos;generic&apos;, &apos;empty-diff&apos;, {myName: &apos;Rodrigo Fernandes&apos;});
++      assert.equal(&apos;&amp;lt;p&amp;gt;Rodrigo Fernandes&amp;lt;/p&amp;gt;&apos;, result);
++    });
+   });
+ });
+&lt;/code&gt;&lt;/pre&gt;</content><author><name></name></author><category term="formatting" /><category term="code" /><summary type="html">You can display diff code by using the regular markdown syntax:</summary></entry><entry><title type="html">a post with advanced image components</title><link href="https://konhat88.github.io/site/blog/2024/advanced-images/" rel="alternate" type="text/html" title="a post with advanced image components" /><published>2024-01-27T11:46:00+00:00</published><updated>2024-01-27T11:46:00+00:00</updated><id>https://konhat88.github.io/site/blog/2024/advanced-images</id><content type="html" xml:base="https://konhat88.github.io/site/blog/2024/advanced-images/">&lt;p&gt;This is an example post with advanced image components.&lt;/p&gt;
+
+&lt;h2 id=&quot;image-slider&quot;&gt;Image Slider&lt;/h2&gt;
+
+&lt;p&gt;This is a simple image slider. It uses the &lt;a href=&quot;https://swiperjs.com/&quot;&gt;Swiper&lt;/a&gt; library. Check the &lt;a href=&quot;https://swiperjs.com/demos&quot;&gt;examples page&lt;/a&gt; for more information of what you can achieve with it.&lt;/p&gt;
+
+&lt;swiper-container keyboard=&quot;true&quot; navigation=&quot;true&quot; pagination=&quot;true&quot; pagination-clickable=&quot;true&quot; pagination-dynamic-bullets=&quot;true&quot; rewind=&quot;true&quot;&gt;
+  &lt;swiper-slide&gt;
+
+
+
+&lt;figure&gt;
+  &lt;picture&gt;
+    &lt;!-- Auto scaling with imagemagick --&gt;
+    &lt;!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining &apos;sizes&apos; for responsive images
+    --&gt;
+    
+    &lt;img src=&quot;/assets/img/9.jpg&quot; class=&quot;img-fluid rounded z-depth-1&quot; width=&quot;100%&quot; height=&quot;auto&quot; loading=&quot;eager&quot; onerror=&quot;this.onerror=null; $(&apos;.responsive-img-srcset&apos;).remove();&quot; /&gt;
+  &lt;/picture&gt;
+
+  
+&lt;/figure&gt;
+&lt;/swiper-slide&gt;
+  &lt;swiper-slide&gt;
+
+
+
+&lt;figure&gt;
+  &lt;picture&gt;
+    &lt;!-- Auto scaling with imagemagick --&gt;
+    &lt;!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining &apos;sizes&apos; for responsive images
+    --&gt;
+    
+    &lt;img src=&quot;/assets/img/7.jpg&quot; class=&quot;img-fluid rounded z-depth-1&quot; width=&quot;100%&quot; height=&quot;auto&quot; loading=&quot;eager&quot; onerror=&quot;this.onerror=null; $(&apos;.responsive-img-srcset&apos;).remove();&quot; /&gt;
+  &lt;/picture&gt;
+
+  
+&lt;/figure&gt;
+&lt;/swiper-slide&gt;
+  &lt;swiper-slide&gt;
+
+
+
+&lt;figure&gt;
+  &lt;picture&gt;
+    &lt;!-- Auto scaling with imagemagick --&gt;
+    &lt;!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining &apos;sizes&apos; for responsive images
+    --&gt;
+    
+    &lt;img src=&quot;/assets/img/8.jpg&quot; class=&quot;img-fluid rounded z-depth-1&quot; width=&quot;100%&quot; height=&quot;auto&quot; loading=&quot;eager&quot; onerror=&quot;this.onerror=null; $(&apos;.responsive-img-srcset&apos;).remove();&quot; /&gt;
+  &lt;/picture&gt;
+
+  
+&lt;/figure&gt;
+&lt;/swiper-slide&gt;
+  &lt;swiper-slide&gt;
+
+
+
+&lt;figure&gt;
+  &lt;picture&gt;
+    &lt;!-- Auto scaling with imagemagick --&gt;
+    &lt;!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining &apos;sizes&apos; for responsive images
+    --&gt;
+    
+    &lt;img src=&quot;/assets/img/10.jpg&quot; class=&quot;img-fluid rounded z-depth-1&quot; width=&quot;100%&quot; height=&quot;auto&quot; loading=&quot;eager&quot; onerror=&quot;this.onerror=null; $(&apos;.responsive-img-srcset&apos;).remove();&quot; /&gt;
+  &lt;/picture&gt;
+
+  
+&lt;/figure&gt;
+&lt;/swiper-slide&gt;
+  &lt;swiper-slide&gt;
+
+
+
+&lt;figure&gt;
+  &lt;picture&gt;
+    &lt;!-- Auto scaling with imagemagick --&gt;
+    &lt;!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining &apos;sizes&apos; for responsive images
+    --&gt;
+    
+    &lt;img src=&quot;/assets/img/12.jpg&quot; class=&quot;img-fluid rounded z-depth-1&quot; width=&quot;100%&quot; height=&quot;auto&quot; loading=&quot;eager&quot; onerror=&quot;this.onerror=null; $(&apos;.responsive-img-srcset&apos;).remove();&quot; /&gt;
+  &lt;/picture&gt;
+
+  
+&lt;/figure&gt;
+&lt;/swiper-slide&gt;
+&lt;/swiper-container&gt;
+
+&lt;h2 id=&quot;image-comparison-slider&quot;&gt;Image Comparison Slider&lt;/h2&gt;
+
+&lt;p&gt;This is a simple image comparison slider. It uses the &lt;a href=&quot;https://img-comparison-slider.sneas.io/&quot;&gt;img-comparison-slider&lt;/a&gt; library. Check the &lt;a href=&quot;https://img-comparison-slider.sneas.io/examples.html&quot;&gt;examples page&lt;/a&gt; for more information of what you can achieve with it.&lt;/p&gt;
+
+&lt;img-comparison-slider&gt;
+  
+
+
+
+&lt;figure slot=&quot;first&quot;&gt;
+  &lt;picture&gt;
+    &lt;!-- Auto scaling with imagemagick --&gt;
+    &lt;!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining &apos;sizes&apos; for responsive images
+    --&gt;
+    
+    &lt;img src=&quot;/assets/img/prof_pic.jpg&quot; class=&quot;img-fluid rounded z-depth-1&quot; width=&quot;100%&quot; height=&quot;auto&quot; loading=&quot;lazy&quot; onerror=&quot;this.onerror=null; $(&apos;.responsive-img-srcset&apos;).remove();&quot; /&gt;
+  &lt;/picture&gt;
+
+  
+&lt;/figure&gt;
+
+  
+
+
+
+&lt;figure slot=&quot;second&quot;&gt;
+  &lt;picture&gt;
+    &lt;!-- Auto scaling with imagemagick --&gt;
+    &lt;!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining &apos;sizes&apos; for responsive images
+    --&gt;
+    
+    &lt;img src=&quot;/assets/img/prof_pic_color.png&quot; class=&quot;img-fluid rounded z-depth-1&quot; width=&quot;100%&quot; height=&quot;auto&quot; loading=&quot;lazy&quot; onerror=&quot;this.onerror=null; $(&apos;.responsive-img-srcset&apos;).remove();&quot; /&gt;
+  &lt;/picture&gt;
+
+  
+&lt;/figure&gt;
+
+&lt;/img-comparison-slider&gt;</content><author><name></name></author><category term="formatting" /><category term="images" /><summary type="html">This is an example post with advanced image components.</summary></entry><entry><title type="html">a post with vega lite</title><link href="https://konhat88.github.io/site/blog/2024/vega-lite/" rel="alternate" type="text/html" title="a post with vega lite" /><published>2024-01-27T00:20:00+00:00</published><updated>2024-01-27T00:20:00+00:00</updated><id>https://konhat88.github.io/site/blog/2024/vega-lite</id><content type="html" xml:base="https://konhat88.github.io/site/blog/2024/vega-lite/">&lt;p&gt;This is an example post with some &lt;a href=&quot;https://vega.github.io/vega-lite/&quot;&gt;vega lite&lt;/a&gt; code.&lt;/p&gt;
+
+&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;vega_lite
+&lt;/span&gt;&lt;span class=&quot;sb&quot;&gt;{
+  &quot;$schema&quot;: &quot;https://vega.github.io/schema/vega-lite/v5.json&quot;,
+  &quot;description&quot;: &quot;A dot plot showing each movie in the database, and the difference from the average movie rating. The display is sorted by year to visualize everything in sequential order. The graph is for all Movies before 2019.&quot;,
+  &quot;data&quot;: {
+    &quot;url&quot;: &quot;https://raw.githubusercontent.com/vega/vega/main/docs/data/movies.json&quot;
+  },
+  &quot;transform&quot;: [
+    {&quot;filter&quot;: &quot;datum[&apos;IMDB Rating&apos;] != null&quot;},
+    {&quot;filter&quot;: {&quot;timeUnit&quot;: &quot;year&quot;, &quot;field&quot;: &quot;Release Date&quot;, &quot;range&quot;: [null, 2019]}},
+    {
+      &quot;joinaggregate&quot;: [{
+        &quot;op&quot;: &quot;mean&quot;,
+        &quot;field&quot;: &quot;IMDB Rating&quot;,
+        &quot;as&quot;: &quot;AverageRating&quot;
+      }]
+    },
+    {
+      &quot;calculate&quot;: &quot;datum[&apos;IMDB Rating&apos;] - datum.AverageRating&quot;,
+      &quot;as&quot;: &quot;RatingDelta&quot;
+    }
+  ],
+  &quot;mark&quot;: &quot;point&quot;,
+  &quot;encoding&quot;: {
+    &quot;x&quot;: {
+      &quot;field&quot;: &quot;Release Date&quot;,
+      &quot;type&quot;: &quot;temporal&quot;
+    },
+    &quot;y&quot;: {
+      &quot;field&quot;: &quot;RatingDelta&quot;,
+      &quot;type&quot;: &quot;quantitative&quot;,
+      &quot;title&quot;: &quot;Rating Delta&quot;
+    },
+    &quot;color&quot;: {
+      &quot;field&quot;: &quot;RatingDelta&quot;,
+      &quot;type&quot;: &quot;quantitative&quot;,
+      &quot;scale&quot;: {&quot;domainMid&quot;: 0},
+      &quot;title&quot;: &quot;Rating Delta&quot;
+    }
+  }
+}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;```&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Which generates:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-vega_lite&quot;&gt;{
+  &quot;$schema&quot;: &quot;https://vega.github.io/schema/vega-lite/v5.json&quot;,
+  &quot;description&quot;: &quot;A dot plot showing each movie in the database, and the difference from the average movie rating. The display is sorted by year to visualize everything in sequential order. The graph is for all Movies before 2019.&quot;,
+  &quot;data&quot;: {
+    &quot;url&quot;: &quot;https://raw.githubusercontent.com/vega/vega/main/docs/data/movies.json&quot;
+  },
+  &quot;transform&quot;: [
+    {&quot;filter&quot;: &quot;datum[&apos;IMDB Rating&apos;] != null&quot;},
+    {&quot;filter&quot;: {&quot;timeUnit&quot;: &quot;year&quot;, &quot;field&quot;: &quot;Release Date&quot;, &quot;range&quot;: [null, 2019]}},
+    {
+      &quot;joinaggregate&quot;: [{
+        &quot;op&quot;: &quot;mean&quot;,
+        &quot;field&quot;: &quot;IMDB Rating&quot;,
+        &quot;as&quot;: &quot;AverageRating&quot;
+      }]
+    },
+    {
+      &quot;calculate&quot;: &quot;datum[&apos;IMDB Rating&apos;] - datum.AverageRating&quot;,
+      &quot;as&quot;: &quot;RatingDelta&quot;
+    }
+  ],
+  &quot;mark&quot;: &quot;point&quot;,
+  &quot;encoding&quot;: {
+    &quot;x&quot;: {
+      &quot;field&quot;: &quot;Release Date&quot;,
+      &quot;type&quot;: &quot;temporal&quot;
+    },
+    &quot;y&quot;: {
+      &quot;field&quot;: &quot;RatingDelta&quot;,
+      &quot;type&quot;: &quot;quantitative&quot;,
+      &quot;title&quot;: &quot;Rating Delta&quot;
+    },
+    &quot;color&quot;: {
+      &quot;field&quot;: &quot;RatingDelta&quot;,
+      &quot;type&quot;: &quot;quantitative&quot;,
+      &quot;scale&quot;: {&quot;domainMid&quot;: 0},
+      &quot;title&quot;: &quot;Rating Delta&quot;
+    }
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This plot supports both light and dark themes.&lt;/p&gt;</content><author><name></name></author><category term="formatting" /><category term="charts" /><summary type="html">This is an example post with some vega lite code.</summary></entry><entry><title type="html">a post with geojson</title><link href="https://konhat88.github.io/site/blog/2024/geojson-map/" rel="alternate" type="text/html" title="a post with geojson" /><published>2024-01-26T17:57:00+00:00</published><updated>2024-01-26T17:57:00+00:00</updated><id>https://konhat88.github.io/site/blog/2024/geojson-map</id><content type="html" xml:base="https://konhat88.github.io/site/blog/2024/geojson-map/">&lt;p&gt;This is an example post with some &lt;a href=&quot;https://geojson.org/&quot;&gt;geojson&lt;/a&gt; code. The support is provided thanks to &lt;a href=&quot;https://leafletjs.com/&quot;&gt;Leaflet&lt;/a&gt;. To create your own visualization, go to &lt;a href=&quot;https://geojson.io/&quot;&gt;geojson.io&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;geojson
+&lt;/span&gt;&lt;span class=&quot;sb&quot;&gt;{
+  &quot;type&quot;: &quot;FeatureCollection&quot;,
+  &quot;features&quot;: [
+    {
+      &quot;type&quot;: &quot;Feature&quot;,
+      &quot;properties&quot;: {},
+      &quot;geometry&quot;: {
+        &quot;coordinates&quot;: [
+          [
+            [
+              -60.11363029935569,
+              -2.904625022183211
+            ],
+            [
+              -60.11363029935569,
+              -3.162613728707967
+            ],
+            [
+              -59.820894493858034,
+              -3.162613728707967
+            ],
+            [
+              -59.820894493858034,
+              -2.904625022183211
+            ],
+            [
+              -60.11363029935569,
+              -2.904625022183211
+            ]
+          ]
+        ],
+        &quot;type&quot;: &quot;Polygon&quot;
+      }
+    }
+  ]
+}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;```&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Which generates:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-geojson&quot;&gt;{
+  &quot;type&quot;: &quot;FeatureCollection&quot;,
+  &quot;features&quot;: [
+    {
+      &quot;type&quot;: &quot;Feature&quot;,
+      &quot;properties&quot;: {},
+      &quot;geometry&quot;: {
+        &quot;coordinates&quot;: [
+          [
+            [
+              -60.11363029935569,
+              -2.904625022183211
+            ],
+            [
+              -60.11363029935569,
+              -3.162613728707967
+            ],
+            [
+              -59.820894493858034,
+              -3.162613728707967
+            ],
+            [
+              -59.820894493858034,
+              -2.904625022183211
+            ],
+            [
+              -60.11363029935569,
+              -2.904625022183211
+            ]
+          ]
+        ],
+        &quot;type&quot;: &quot;Polygon&quot;
+      }
+    }
+  ]
+}
+&lt;/code&gt;&lt;/pre&gt;</content><author><name></name></author><category term="formatting" /><category term="charts" /><category term="maps" /><summary type="html">This is an example post with some geojson code. The support is provided thanks to Leaflet. To create your own visualization, go to geojson.io.</summary></entry><entry><title type="html">a post with echarts</title><link href="https://konhat88.github.io/site/blog/2024/echarts/" rel="alternate" type="text/html" title="a post with echarts" /><published>2024-01-26T16:03:00+00:00</published><updated>2024-01-26T16:03:00+00:00</updated><id>https://konhat88.github.io/site/blog/2024/echarts</id><content type="html" xml:base="https://konhat88.github.io/site/blog/2024/echarts/">&lt;p&gt;This is an example post with some &lt;a href=&quot;https://echarts.apache.org/&quot;&gt;echarts&lt;/a&gt; code.&lt;/p&gt;
+
+&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;echarts
+&lt;/span&gt;&lt;span class=&quot;sb&quot;&gt;{
+  &quot;title&quot;: {
+    &quot;text&quot;: &quot;ECharts Getting Started Example&quot;
+  },
+  &quot;responsive&quot;: true,
+  &quot;tooltip&quot;: {},
+  &quot;legend&quot;: {
+    &quot;top&quot;: &quot;30px&quot;,
+    &quot;data&quot;: [&quot;sales&quot;]
+  },
+  &quot;xAxis&quot;: {
+    &quot;data&quot;: [&quot;Shirts&quot;, &quot;Cardigans&quot;, &quot;Chiffons&quot;, &quot;Pants&quot;, &quot;Heels&quot;, &quot;Socks&quot;]
+  },
+  &quot;yAxis&quot;: {},
+  &quot;series&quot;: [
+    {
+      &quot;name&quot;: &quot;sales&quot;,
+      &quot;type&quot;: &quot;bar&quot;,
+      &quot;data&quot;: [5, 20, 36, 10, 10, 20]
+    }
+  ]
+}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;```&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Which generates:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-echarts&quot;&gt;{
+  &quot;title&quot;: {
+    &quot;text&quot;: &quot;ECharts Getting Started Example&quot;
+  },
+  &quot;responsive&quot;: true,
+  &quot;tooltip&quot;: {},
+  &quot;legend&quot;: {
+    &quot;top&quot;: &quot;30px&quot;,
+    &quot;data&quot;: [&quot;sales&quot;]
+  },
+  &quot;xAxis&quot;: {
+    &quot;data&quot;: [&quot;Shirts&quot;, &quot;Cardigans&quot;, &quot;Chiffons&quot;, &quot;Pants&quot;, &quot;Heels&quot;, &quot;Socks&quot;]
+  },
+  &quot;yAxis&quot;: {},
+  &quot;series&quot;: [
+    {
+      &quot;name&quot;: &quot;sales&quot;,
+      &quot;type&quot;: &quot;bar&quot;,
+      &quot;data&quot;: [5, 20, 36, 10, 10, 20]
+    }
+  ]
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Note that this library offer support for both light and dark themes. You can switch between them using the theme switcher in the top right corner of the page.&lt;/p&gt;</content><author><name></name></author><category term="formatting" /><category term="charts" /><summary type="html">This is an example post with some echarts code.</summary></entry></feed>
