@@ -3,7 +3,7 @@ name: Build and Deploy Jekyll Site
 on:
   push:
     branches:
-      - main  # Change this to your default branch
+      - siteDep  # Change this to your default branch
 
 jobs:
   build:
