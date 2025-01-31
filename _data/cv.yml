@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Konstantinos P. Chatzipapas
     - name: Date of Birth
-      value: 14th March 1879
+      value: 09th January 1988
     - name: Languages
-      value: English, German
+      value: English, Greek, French
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Medical and Radiation Physics
+      institution: University of Patras, Rion, Greece
+      year: 2021
       description:
         - Description 1.
         - Description 2.
@@ -21,12 +21,19 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MSc in Medical and Radiation Physics
+      institution: University of Patras, Rion, Greece
+      year: 2016
       description:
         - Description 1.
         - Description 2.
+    - title: BSc in Physics
+      institution: National and Kapodistrian University of Athens, Athens, Greece
+      year: 2014
+      description:
+        - Description 1.
+        - Description 2.
+
 
 - title: Experience
   type: time_table
