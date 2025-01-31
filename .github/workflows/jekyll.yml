@@ -1,27 +1,25 @@
-name: Jekyll site CI
+name: Build and Deploy Jekyll Site
 
 on:
   push:
     branches:
-      - main
+      - main  # Change this to your default branch
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v2
 
       - name: Set up Ruby
-        uses: actions/setup-ruby@v1
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '2.7'
+          ruby-version: '3.0'  # Change this to your desired Ruby version
 
       - name: Install dependencies
-        run: |
-          gem install bundler
-          bundle install
+        run: bundle install
 
       - name: Build site
         run: bundle exec jekyll build
