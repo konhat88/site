@@ -91,7 +91,6 @@ git checkout -b $DEPLOY_BRANCH
 
 # Export JEKYLL_ENV=production
 export JEKYLL_ENV=production
-export PAGES_REPO_NWO=konhat88/site
 
 # Build site
 bundle exec jekyll build --trace
