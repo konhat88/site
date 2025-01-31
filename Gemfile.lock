@@ -282,7 +282,7 @@ DEPENDENCIES
   css_parser
   feedjira
   httparty
-  jekyll (~> 4.2)
+  jekyll
   jekyll-archives
   jekyll-coffeescript
   jekyll-commonmark-ghpages
