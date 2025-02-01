@@ -16,6 +16,7 @@ jobs:
     - name: Cache dependencies
       uses: actions/cache@v4
       with:
+        token: ${{ secrets.PAT }}
         path: vendor/bundle
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: |
