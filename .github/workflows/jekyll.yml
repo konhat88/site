@@ -17,7 +17,8 @@ jobs:
       uses: actions/cache@v3
       with:
         token: ${{ secrets.PAT }}
-        repository: konhat88/site
+        repository: ${{ env.konhat88/site }}
+        ref: ${{ env.gh-pages }}
         path: vendor/bundle
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: |
